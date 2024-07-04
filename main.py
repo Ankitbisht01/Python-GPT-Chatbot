@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "sk-proj-bvVSSdDRisAdxSEovmsLT3BlbkFJLctUnwqKCB6khVhZhX2F"
+openai.api_key = "Need to enter API key here"
 
 
 def generate_response(prompt):
