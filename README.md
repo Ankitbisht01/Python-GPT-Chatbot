@@ -1,0 +1,1 @@
+This is a python chat gpt bot which uses OpenAI API to generate the response/text for all user input. I have removed the secret API key from the code due to security reasons. This project will work by adding secret open API key which can be generated from OpenAI.
